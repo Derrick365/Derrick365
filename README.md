@@ -1,4 +1,4 @@
-<h1>Hi, I'm Derrick! <br/><a href="https://www.linkedin.com/in/derrick-gyamfi-429933265">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="medium.com/@cwabenadaylight">Medium Writer</a></h1>
+<h1>Hi, I'm Derrick 😇! <br/><a href="https://www.linkedin.com/in/derrick-gyamfi-429933265">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="medium.com/@cwabenadaylight">Medium Writer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -25,21 +25,33 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  
+
+  <h2>📄 Certification</h2>
+
+- [Masters in Digital Forensics and Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Bachelors of Science in Information Technology](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- <h4>📄 Professional Certifications</h4>
+- [TryHackme](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [SecurityBlueTeam Junior Analyst](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
+  
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CwabenaDaylight | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="CwabenaDaylight | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="cwabenadaylight | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Derrick Gyamfi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+
+[twitter]: https://twitter.com/CwabenaDaylight
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**derrick365/derrick356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
