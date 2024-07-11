@@ -1,4 +1,4 @@
-<h1>Hi, I'm Derrick 😇! <br/><a href="https://www.linkedin.com/in/derrick-gyamfi-429933265">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="medium.com/@cwabenadaylight">Medium Writer</a></h1>
+<h1>Hi, I'm Derrick 😇! <br/><a href="https://www.linkedin.com/in/derrick-gyamfi-429933265">Cybersecurity Professional</a>, <a href="https://github.com/derrick365">Programmer</a>, <a href="medium.com/@cwabenadaylight">Medium Writer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -46,9 +46,9 @@
 
 
 [twitter]: https://twitter.com/CwabenaDaylight
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[youtube]: https://www.youtube.com/c/derrick
+[instagram]: https://www.instagram.com/derrick/
+[linkedin]: https://linkedin.com/in/derrick
 
 <!--
 **derrick365/derrick356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
